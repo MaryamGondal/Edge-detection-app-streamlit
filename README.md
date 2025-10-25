@@ -23,14 +23,14 @@ An interactive **Computer Vision app** built using **Streamlit** and **OpenCV**,
 
    ## 📸 Screenshots
 
-### Interface Example
+### Laplacian result
 ![App Interface](laplacian.png)
 
-### Edge Detection Result
+### Sobel result
 ![Edge Detection Output](sobel.png)
 
 
-### Edge Detection Result
+### Canny Result
 ![Edge Detection Output](canny.png)
 
 
