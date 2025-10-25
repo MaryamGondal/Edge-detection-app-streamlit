@@ -21,6 +21,20 @@ An interactive **Computer Vision app** built using **Streamlit** and **OpenCV**,
    git clone https://github.com/MaryamGondal/Edge-detection-app-streamlit.git
    cd edge-detection-app
 
+   ## 📸 Screenshots
+
+### Interface Example
+![App Interface](laplacian.png)
+
+### Edge Detection Result
+![Edge Detection Output](sobel.png)
+
+
+### Edge Detection Result
+![Edge Detection Output](canny.png)
+
+
+
 
 
 
