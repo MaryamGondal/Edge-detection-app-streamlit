@@ -41,7 +41,7 @@ def resize_for_display(pil_image, max_width=800, max_height=800):
     scale = min(1.0, max_width / w, max_height / h)
     if scale < 1.0:
         new_size = (int(w * scale), int(h * scale))
-        return pil_image.resize(new_size, Image.ANTIALIAS)
+        return pil_image.resize(new_size, Image.Resampling.LANCZOS)
     return pil_image
 
 
